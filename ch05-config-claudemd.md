@@ -1,5 +1,7 @@
 # 第五章：Config — 把 Claude 配置成你的專屬工程師
 
+*CLAUDE.md 是你跟 AI 的合約*
+
 前四章你學會了怎麼跟 Claude 說話、怎麼讓它動手改 code。
 
 但有一個問題我每次 onboard 新用戶都會遇到：他們花了大量時間在每次對話開頭重複解釋同樣的事情。「我們用 TypeScript strict mode」、「price 欄位用分不用元」、「不要動 lib/legacy/」。

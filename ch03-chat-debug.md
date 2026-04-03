@@ -1,5 +1,7 @@
 # 第三章：Chat — 跟 Claude 聊天的藝術
 
+*問對問題，比寫對 code 更重要*
+
 很多人用 Claude Code 的方式，跟在 ChatGPT 貼問題沒兩樣。
 
 複製 error message，貼過去，等答案。複製答案，貼回去，試試看。不行，再貼一次。

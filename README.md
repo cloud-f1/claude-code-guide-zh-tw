@@ -22,17 +22,17 @@
 
 ## 目錄
 
-| 章節 | 標題 | 狀態 |
-|------|------|------|
-| 第一章 | [AI Coding 的時代來了](./ch01-what-is-claude-code.md) | 已發布 |
-| 第二章 | [環境設定與第一次對話](./ch02-setup-first-conversation.md) | 已發布 |
-| 第三章 | [Chat — 跟 Claude 聊天的藝術](./ch03-chat-debug.md) | 已發布 |
-| 第四章 | [Work — 讓 Claude 動手改你的 Code](./ch04-work-plan.md) | 已發布 |
-| 第五章 | [Config — 把 Claude 配置成你的專屬工程師](./ch05-config-claudemd.md) | 已發布 |
-| 第六章 | [Cloud Worker — 背景執行與平行開發](./ch06-cloud-worker.md) | 已發布 |
-| 第七章 | [我的日常工作流與踩坑指南](./ch07-daily-workflow.md) | 已發布 |
-| 第八章 | [進階 — MCP、Commands、Agents、Skills](./ch08-advanced-preview.md) | 已發布 |
-| **附錄 A** | [**我該用哪個功能？— 初學者決策指南**](./appendix-a-decision-guide.md) | **已發布** |
+| 章節 | 標題 | Subtagline |
+|------|------|-----------|
+| 第一章 | [AI Coding 的時代來了](./ch01-what-is-claude-code.md) | 不是 AI 幫你寫 code，是 AI 跟你一起工作 |
+| 第二章 | [環境設定與第一次對話](./ch02-setup-first-conversation.md) | 30 分鐘後，你會問出第一個讓 Claude 驚艷你的問題 |
+| 第三章 | [Chat — 跟 Claude 聊天的藝術](./ch03-chat-debug.md) | 問對問題，比寫對 code 更重要 |
+| 第四章 | [Work — 讓 Claude 動手改 Code](./ch04-work-plan.md) | 你是 PM，Claude 是工程師 |
+| 第五章 | [Config — 把 Claude 配置成你的專屬工程師](./ch05-config-claudemd.md) | CLAUDE.md 是你跟 AI 的合約 |
+| 第六章 | [Cloud Worker — 背景執行與平行開發](./ch06-cloud-worker.md) | 一個人，做三個人的事 |
+| 第七章 | [我的日常工作流與踩坑指南](./ch07-daily-workflow.md) | 6 個月踩的坑，讓你一天避開 |
+| 第八章 | [進階 — MCP、Commands、Agents、Skills](./ch08-advanced-preview.md) | 從使用工具，到設計系統 |
+| **附錄 A** | [**我該用哪個功能？— 初學者決策指南**](./appendix-a-decision-guide.md) | **不確定該用什麼？看這張圖** |
 
 ---
 
