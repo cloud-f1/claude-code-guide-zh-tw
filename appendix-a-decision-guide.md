@@ -202,7 +202,7 @@ $ARGUMENTS
 - **Agent**：當你需要 Claude 扮演一個有明確邊界的角色（例：只做 review 不能改 code）
 - **Skill**：當你有一套領域知識需要在多個對話中重複使用（例：公司的 API 設計規範）
 
-大部分人用 CLAUDE.md + 1-2 個 Hooks + 3-5 個 Commands 就夠了。Agent 和 Skill 是你的系統複雜到一定程度之後才需要的。
+大部分人用 CLAUDE.md + 1-2 個 Hooks + 3-5 個 Commands 就夠了。Agent 和 Skill 是你的系統複雜到某個程度之後才需要的。
 
 ---
 
